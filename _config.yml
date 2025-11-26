@@ -23,10 +23,10 @@ timezone: Europe/Istanbul
 
 title: Murat Süzen # the main title
 
-tagline: Yazılım Geliştirici Günlükleri # a short description of the site
+tagline: A Software Developer's Journal # a short description of the site
 
 description: >- # used by seo meta and the atom feed
-  Merhaba! Ben Murat Süzen. Yazılım geliştirme, teknoloji ve kişisel gelişim konularında deneyimlerimi paylaştığım bir blog.
+  Hello! I am Murat Süzen. This is a blog where I share my experiences in software development, technology, and personal development.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://muratsuzen.github.io"
