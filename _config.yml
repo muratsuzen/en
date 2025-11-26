@@ -29,7 +29,7 @@ description: >- # used by seo meta and the atom feed
   Merhaba! Ben Murat Süzen. Yazılım geliştirme, teknoloji ve kişisel gelişim konularında deneyimlerimi paylaştığım bir blog.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "/en"
+url: ""
 
 github:
   username: muratsuzen # change to your github username
